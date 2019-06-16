@@ -2,7 +2,7 @@
 
 Tästä hakemistosta löydät artikkelin esimerkkivirrat json-muodossa.
 
-Voit viedä ne omaan Node-RED:iisi kopioimalla json-merkkijonon leikepöydälle ja sitten valitsemalla Node-RED:in valikosta `Importa -> Clipboard`.
+Voit viedä ne omaan Node-RED:iisi kopioimalla json-merkkijonon leikepöydälle ja sitten valitsemalla Node-RED:in valikosta `Import -> Clipboard`.
 
 
 ## Node-REDin lyhyt oppimäärä
